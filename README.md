@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://kleinsolutech.com.br/brand/logo-oficial.webp" alt="KleinSolutech — Soluções e Automações" width="280" />
-</p>
+<p align="center"><strong>KLEINSOLUTECH</strong><br /><sub>Soluções e Automações</sub></p>
 
 <h1 align="center">Arthur Klein</h1>
 <p align="center"><strong>Sistemas, automações e produtos digitais para negócios reais.</strong></p>
